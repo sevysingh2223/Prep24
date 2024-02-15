@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&family=Rubik+Doodle+Shadow&display=swap');
+h3{
+    color: cadetblue !important;
+}
+
+p, h1, h2{
+    text-align: center;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-transform: capitalize;
+    /* text-transform: uppercase; */
+    /* text-shadow: 2px 1px blue; */
+    /* text-indent: 25px; */
+
+    /* font: 1em sans-serif; */
+    font-size: 1em;
+    font-family: 'Protest Riot', sans-serif;
+/* font-family: 'Rubik Doodle Shadow', system-ui; */
+    /* font-weight: bold; */
+    font-style: italic;
+}
